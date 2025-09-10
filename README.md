@@ -5,10 +5,11 @@ The aim is to provide hands-on implementations of concepts learned in class usin
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure
+```
 Applied-Linear-Algebra/
 │── data/ # Datasets used in lab sessions
 │── codes/ # Python scripts & Jupyter notebooks
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
-
+```
