@@ -29,3 +29,6 @@ Applied-Linear-Algebra/
 ## Adding and committing changes
 <img width="1189" height="689" alt="image" src="https://github.com/user-attachments/assets/56338369-fe5d-45bb-83d6-d1938307e7b0" />
 
+## Pushing changes
+<img width="1023" height="243" alt="image" src="https://github.com/user-attachments/assets/c1321de1-1d05-4696-b24a-d3ab5716f537" />
+
