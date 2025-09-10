@@ -1,6 +1,6 @@
 # Applied Linear Algebra  
 
-This repository contains codes, datasets, and exercises from the **Advanced/Applied Linear Algebra (ALA) Lab Sessions**.  
+This repository contains codes, datasets, and exercises from the **Applied Linear Algebra (ALA) Lab Sessions**.  
 The aim is to provide hands-on implementations of concepts learned in class using Python and supporting libraries.  
 
 ---
@@ -13,6 +13,9 @@ Applied-Linear-Algebra/
 │── requirements.txt # Python dependencies
 │── README.md # Project documentation
 ```
+
+## Cloning an empty repo Applied Linear Algebra
+<img width="1352" height="220" alt="image" src="https://github.com/user-attachments/assets/16e829a2-1e24-48cc-9ac0-e9bf45aeaaeb" />
 
 ## Creation of Virtual enviorment ALA:
 <img width="1919" height="481" alt="image" src="https://github.com/user-attachments/assets/317079c0-afba-4ee1-af7c-07607c9922bc" />
