@@ -27,3 +27,5 @@ Applied-Linear-Algebra/
 <img width="1485" height="469" alt="Screenshot 2025-09-10 161423" src="https://github.com/user-attachments/assets/5507a01b-f55e-461a-9d71-411253b9a498" />
 
 ## Adding and committing changes
+<img width="1189" height="689" alt="image" src="https://github.com/user-attachments/assets/56338369-fe5d-45bb-83d6-d1938307e7b0" />
+
